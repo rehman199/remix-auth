@@ -42,3 +42,11 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ## Project Overview
 
 This project is a Remix.js frontend authentication application with basic JWT authentication implementation using Remix sessions. It includes features such as user registration, login, password reset, and protected routes.
+
+## Environment Variables
+
+Create a `.env` file in the root directory of your project using the `.env.example` file as a template. Update the values as needed for your environment.
+
+```shell
+cp .env.example .env
+```
